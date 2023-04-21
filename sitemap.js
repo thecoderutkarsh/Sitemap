@@ -13,7 +13,6 @@ btn.addEventListener("click", function(event){
 
     <loc>${url}</loc>
 
-    <lastmod>2005-01-01</lastmod>
 
     <changefreq>monthly</changefreq>
 
